@@ -1,0 +1,11 @@
+Python 3.9+
+
+Qulacs (pip install qulacs)
+
+NumPy, SciPy
+
+scikit-learn
+
+seaborn, matplotlib
+
+tqdm
